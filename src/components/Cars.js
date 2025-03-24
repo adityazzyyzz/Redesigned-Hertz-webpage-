@@ -126,7 +126,7 @@ const Cars = () => {
       price: '23000',
       make: 'Mercedes',
       year: '2023',
-      image: 'https://images.unsplash.com/photo-1679678691006-0ad24fecb769?auto=format&fit=crop&q=80',
+      image: 'https://hips.hearstapps.com/hmg-prod/images/2025-mercedes-benz-eqs-exterior-113-6616f12b6d591.jpg?crop=1.00xw:0.563xh;0,0.228xh&resize=2048:*',
       specs: {
         seats: '5',
         luggage: '3',
